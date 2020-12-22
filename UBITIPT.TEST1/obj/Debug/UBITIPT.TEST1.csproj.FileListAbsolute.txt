@@ -1,0 +1,24 @@
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT.TEST1\bin\Debug\UBITIPT.TEST1.exe.config
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT.TEST1\bin\Debug\UBITIPT.TEST1.exe
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT.TEST1\bin\Debug\UBITIPT.TEST1.pdb
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT.TEST1\bin\Debug\UBITIPT.dll
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT.TEST1\bin\Debug\EntityFramework.dll
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT.TEST1\bin\Debug\UBITIPT.pdb
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT.TEST1\bin\Debug\UBITIPT.dll.config
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT.TEST1\bin\Debug\EntityFramework.xml
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT.TEST1\obj\Debug\UBITIPT.TEST1.csprojAssemblyReference.cache
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT.TEST1\obj\Debug\UBITIPT.TEST1.csproj.CoreCompileInputs.cache
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT.TEST1\obj\Debug\UBITIPT.TEST1.csproj.CopyComplete
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT.TEST1\obj\Debug\UBITIPT.TEST1.exe
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT.TEST1\obj\Debug\UBITIPT.TEST1.pdb
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT.TEST1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT.TEST1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\WAHAJ\Desktop\UBITEntityframework-main\UBITIPT.TEST1\bin\Debug\UBITIPT.TEST1.exe.config
+C:\Users\WAHAJ\Desktop\UBITEntityframework-main\UBITIPT.TEST1\obj\Debug\UBITIPT.TEST1.exe
+C:\Users\WAHAJ\Desktop\UBITEntityframework-main\UBITIPT.TEST1\obj\Debug\UBITIPT.TEST1.pdb
+C:\Users\WAHAJ\Desktop\Assignment3\UBITIPT.TEST1\bin\Debug\UBITIPT.TEST1.exe.config
+C:\Users\WAHAJ\Desktop\Assignment3\UBITIPT.TEST1\obj\Debug\UBITIPT.TEST1.exe
+C:\Users\WAHAJ\Desktop\Assignment3\UBITIPT.TEST1\obj\Debug\UBITIPT.TEST1.pdb
+C:\Users\WAHAJ\Desktop\New folder\UBITIPT.TEST1\bin\Debug\UBITIPT.TEST1.exe.config
+C:\Users\WAHAJ\Desktop\New folder\UBITIPT.TEST1\obj\Debug\UBITIPT.TEST1.exe
+C:\Users\WAHAJ\Desktop\New folder\UBITIPT.TEST1\obj\Debug\UBITIPT.TEST1.pdb

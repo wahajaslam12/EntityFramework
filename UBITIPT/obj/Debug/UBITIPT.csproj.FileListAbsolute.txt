@@ -1,0 +1,2 @@
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT\obj\Debug\UBITIPT.csprojAssemblyReference.cache
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT\obj\Debug\UBITIPT.csproj.CoreCompileInputs.cache

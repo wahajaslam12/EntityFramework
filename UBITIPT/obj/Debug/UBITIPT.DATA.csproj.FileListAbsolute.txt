@@ -1,0 +1,12 @@
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT\bin\Debug\UBITIPT.dll.config
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT\bin\Debug\UBITIPT.dll
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT\bin\Debug\UBITIPT.pdb
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT\bin\Debug\EntityFramework.dll
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT\bin\Debug\EntityFramework.xml
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT\obj\Debug\UBITIPT.DATA.csproj.CoreCompileInputs.cache
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT\obj\Debug\UBITIPT.DATA.csproj.CopyComplete
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT\obj\Debug\UBITIPT.dll
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT\obj\Debug\UBITIPT.pdb
+C:\Users\Haseeb\source\repos\UBITIPT\UBITIPT\obj\Debug\UBITIPT.DATA.csprojAssemblyReference.cache
